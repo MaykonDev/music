@@ -5,13 +5,12 @@
 
 <i>Distribuições testadas:
 <li>Arch Linux
-<li>Termux
 <li>Kali NetHunter
 <li>Linux</i>
 
 <strong><i>INSTALAÇÃO: </i></strong></br>
 
-<strong><li>Termux</br><li>Linux</br><li>Kali NetHunter</strong>
+<strong><li>Linux</br><li>Kali NetHunter</strong>
 
      apt-get update - y && apt-get upgrade
      apt-get install python -y
