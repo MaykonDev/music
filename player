@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+
+music = input("Digite o diretirio da musica: ")
+from pygame import mixer
+
+mixer.init()
+
+mixer.music.load(music)
+
+mixer.music.play()
+
+x = input('Digite a tecla que quiser para parar...')
