@@ -10,7 +10,8 @@
 <li>Linux</i>
 
 <strong><i>INSTALAÇÃO: </i></strong></br>
-___Termux,Linux, Kali NetHunter:___
+
+<strong><li>Termux</br><li>Linux</br><li>Kali NetHunter</strong>
 
      apt-get update - y && apt-get upgrade
      apt-get install python -y
@@ -18,14 +19,7 @@ ___Termux,Linux, Kali NetHunter:___
      pip install pygame
      git clone https://github.com/MaykonDev/music
 
-<strong><i>MODO DE USO:</i></stronf></br>
-
-     cd music
-     python music
-
-_Para tocar uma musica, passe o nome do diretório e o nome da musica, exemplo: __/sdcard/download/musica.mp3___
-
-___Arch Linux:___
+<strong><li>Arch Linux:</strong>
 
      pacman -S update && pacman -S upgrade
      pacman -S install python
@@ -37,3 +31,5 @@ ___Arch Linux:___
 
      cd music
      python 
+
+_Para tocar uma musica, passe o nome do diretório e o nome da musica, exemplo: __/sdcard/download/musica.mp3___
